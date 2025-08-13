@@ -45,3 +45,9 @@ This is because the raw data collected for modeling is often incomplete, contain
 Following these steps would make the data model ready.
 
 The preprocessing pipeline notebook clearly articulates all the above steps. 
+
+## Steps to run the notebook
+1. Create a virtual environment if you're running in a local machine.
+2. If run on cloud (colab), skip the above step.
+3. Run command "pip install -r requirements.txt"
+4. Rull all the cells.
